@@ -10,7 +10,7 @@ export default function Projects() {
         "Secure Stripe payment integration",
       ],
       github: "#",
-      live: "#",
+      // live: "#",
     },
     {
       title: "WebHome – Airbnb Clone",
@@ -22,7 +22,7 @@ export default function Projects() {
         "Optimized MongoDB queries (25% faster)",
       ],
       github: "#",
-      live: "#",
+      // live: "#",
     },
     {
       title: "Policy Insurance Website",
@@ -34,7 +34,7 @@ export default function Projects() {
         "Secure REST APIs for admin & users",
       ],
       github: "#",
-      live: "#",
+      // live: "#",
     },
   ];
 
